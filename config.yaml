@@ -1,0 +1,4 @@
+bucket: sagemaker-us-east-1-XXXXXXXXXXXXX
+key-prefix: sagemaker
+role: arn:aws:iam::XXXXXXXXXXXXXXXXXXXXX
+s3_output_location: s3://sagemaker-us-east-1-XXXXXXXXXXXXX/sagemaker/output
